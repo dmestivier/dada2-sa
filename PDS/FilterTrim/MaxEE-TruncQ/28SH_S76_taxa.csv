@@ -1,0 +1,12 @@
+"asv","Kingdom","Phylum","Class","Order","Family","Genus"
+"asv1","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae","Escherichia/Shigella"
+"asv2","Bacteria","Fusobacteria","Fusobacteriia","Fusobacteriales","Fusobacteriaceae","Fusobacterium"
+"asv3","Bacteria","Firmicutes","Clostridia","Clostridiales","Clostridiaceae_1","Clostridium_sensu_stricto_1"
+"asv4",NA,NA,NA,NA,NA,NA
+"asv5","Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus"
+"asv6","Bacteria","Firmicutes","Bacilli","Lactobacillales","Enterococcaceae","Enterococcus"
+"asv7","Eukaryota","Euglenozoa",NA,NA,NA,NA
+"asv8","Bacteria","Firmicutes","Bacilli","Lactobacillales","Carnobacteriaceae","Granulicatella"
+"asv9","Bacteria","Firmicutes","Bacilli","Bacillales","Staphylococcaceae","Staphylococcus"
+"asv10","Bacteria","Firmicutes","Bacilli","Lactobacillales","Enterococcaceae","Melissococcus"
+"asv11","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacteriales","Enterobacteriaceae",NA
