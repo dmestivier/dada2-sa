@@ -39,7 +39,15 @@ accession number PRJEB43183.
 ## Scripts
 
 Different sets of parameters are addressed in this work.
-Each set is tested in the `./PDS` directory.
+Each parameter set tested is in the `./PDS` directory:
+
+- MaxEE and truncQ
+- truncLen
 
 Scripts for the figures are in the `./Figures` directory.
+
+- ReadQualityProfiles
+- Error-Dada
+- MaxEE-TruncQ
+- TruncLen
 
