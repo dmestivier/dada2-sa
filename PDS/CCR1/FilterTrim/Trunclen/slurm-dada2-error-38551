@@ -1,0 +1,181 @@
+Loading required package: Rcpp
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+**** Run  1 
+22283736 total bases in 89764 reads from 1 samples will be used for learning the error rates.
+22169132 total bases in 89764 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 89764 reads in 21181 unique sequences.
+Sample 1 - 89764 reads in 36463 unique sequences.
+81163 paired-reads (in 166 unique pairings) successfully merged out of 87631 (in 748 pairings) input.
+[1]   1 166
+Identified 52 bimeras out of 166 input sequences.
+**** Run  2 
+19876065 total bases in 84579 reads from 1 samples will be used for learning the error rates.
+19876065 total bases in 84579 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 84579 reads in 12897 unique sequences.
+Sample 1 - 84579 reads in 23284 unique sequences.
+77437 paired-reads (in 262 unique pairings) successfully merged out of 82796 (in 775 pairings) input.
+[1]   1 262
+Identified 113 bimeras out of 262 input sequences.
+**** Run  3 
+20492940 total bases in 87204 reads from 1 samples will be used for learning the error rates.
+20056920 total bases in 87204 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 87204 reads in 13758 unique sequences.
+Sample 1 - 87204 reads in 23983 unique sequences.
+80046 paired-reads (in 274 unique pairings) successfully merged out of 85297 (in 800 pairings) input.
+[1]   1 274
+Identified 121 bimeras out of 274 input sequences.
+**** Run  4 
+20776350 total bases in 88410 reads from 1 samples will be used for learning the error rates.
+19892250 total bases in 88410 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 88410 reads in 14147 unique sequences.
+Sample 1 - 88410 reads in 24021 unique sequences.
+81217 paired-reads (in 284 unique pairings) successfully merged out of 86534 (in 811 pairings) input.
+[1]   1 284
+Identified 124 bimeras out of 284 input sequences.
+**** Run  5 
+21066575 total bases in 89645 reads from 1 samples will be used for learning the error rates.
+19721900 total bases in 89645 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 89645 reads in 14638 unique sequences.
+Sample 1 - 89645 reads in 23796 unique sequences.
+82266 paired-reads (in 290 unique pairings) successfully merged out of 87752 (in 832 pairings) input.
+[1]   1 290
+Identified 126 bimeras out of 290 input sequences.
+**** Run  6 
+19176960 total bases in 79904 reads from 1 samples will be used for learning the error rates.
+19176960 total bases in 79904 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 79904 reads in 12054 unique sequences.
+Sample 1 - 79904 reads in 21429 unique sequences.
+73159 paired-reads (in 241 unique pairings) successfully merged out of 78266 (in 696 pairings) input.
+[1]   1 241
+Identified 94 bimeras out of 241 input sequences.
+**** Run  7 
+20124480 total bases in 83852 reads from 1 samples will be used for learning the error rates.
+19705220 total bases in 83852 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 83852 reads in 13183 unique sequences.
+Sample 1 - 83852 reads in 22892 unique sequences.
+77309 paired-reads (in 268 unique pairings) successfully merged out of 82121 (in 735 pairings) input.
+[1]   1 268
+Identified 120 bimeras out of 268 input sequences.
+**** Run  8 
+20720640 total bases in 86336 reads from 1 samples will be used for learning the error rates.
+19857280 total bases in 86336 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 86336 reads in 13998 unique sequences.
+Sample 1 - 86336 reads in 23502 unique sequences.
+79825 paired-reads (in 279 unique pairings) successfully merged out of 84606 (in 757 pairings) input.
+[1]   1 279
+Identified 126 bimeras out of 279 input sequences.
+**** Run  9 
+20990640 total bases in 87461 reads from 1 samples will be used for learning the error rates.
+19678725 total bases in 87461 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 87461 reads in 14360 unique sequences.
+Sample 1 - 87461 reads in 23494 unique sequences.
+80819 paired-reads (in 286 unique pairings) successfully merged out of 85678 (in 768 pairings) input.
+[1]   1 286
+Identified 127 bimeras out of 286 input sequences.
+**** Run  10 
+21269040 total bases in 88621 reads from 1 samples will be used for learning the error rates.
+19496620 total bases in 88621 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 88621 reads in 14819 unique sequences.
+Sample 1 - 88621 reads in 23228 unique sequences.
+81804 paired-reads (in 293 unique pairings) successfully merged out of 86754 (in 794 pairings) input.
+[1]   1 293
+Identified 130 bimeras out of 293 input sequences.
+**** Run  11 
+18630290 total bases in 76042 reads from 1 samples will be used for learning the error rates.
+18630290 total bases in 76042 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 76042 reads in 11198 unique sequences.
+Sample 1 - 76042 reads in 21049 unique sequences.
+69966 paired-reads (in 235 unique pairings) successfully merged out of 74485 (in 673 pairings) input.
+[1]   1 235
+Identified 96 bimeras out of 235 input sequences.
+**** Run  12 
+19257980 total bases in 78604 reads from 1 samples will be used for learning the error rates.
+18864960 total bases in 78604 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 78604 reads in 11974 unique sequences.
+Sample 1 - 78604 reads in 20759 unique sequences.
+71914 paired-reads (in 235 unique pairings) successfully merged out of 76962 (in 683 pairings) input.
+[1]   1 235
+Identified 92 bimeras out of 235 input sequences.
+**** Run  13 
+20170605 total bases in 82329 reads from 1 samples will be used for learning the error rates.
+19347315 total bases in 82329 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 82329 reads in 13036 unique sequences.
+Sample 1 - 82329 reads in 22103 unique sequences.
+75924 paired-reads (in 263 unique pairings) successfully merged out of 80628 (in 716 pairings) input.
+[1]   1 263
+Identified 118 bimeras out of 263 input sequences.
+**** Run  14 
+20730920 total bases in 84616 reads from 1 samples will be used for learning the error rates.
+19461680 total bases in 84616 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 84616 reads in 13772 unique sequences.
+Sample 1 - 84616 reads in 22605 unique sequences.
+78231 paired-reads (in 270 unique pairings) successfully merged out of 82904 (in 728 pairings) input.
+[1]   1 270
+Identified 121 bimeras out of 270 input sequences.
+**** Run  15 
+20980085 total bases in 85633 reads from 1 samples will be used for learning the error rates.
+19267425 total bases in 85633 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 85633 reads in 14101 unique sequences.
+Sample 1 - 85633 reads in 22547 unique sequences.
+79245 paired-reads (in 280 unique pairings) successfully merged out of 83934 (in 738 pairings) input.
+[1]   1 280
+Identified 125 bimeras out of 280 input sequences.
+**** Run  16 
+14989000 total bases in 59956 reads from 1 samples will be used for learning the error rates.
+14989000 total bases in 59956 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 59956 reads in 8410 unique sequences.
+Sample 1 - 59956 reads in 15993 unique sequences.
+55800 paired-reads (in 202 unique pairings) successfully merged out of 58808 (in 510 pairings) input.
+[1]   1 202
+Identified 82 bimeras out of 202 input sequences.
+**** Run  17 
+17600500 total bases in 70402 reads from 1 samples will be used for learning the error rates.
+17248490 total bases in 70402 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 70402 reads in 10006 unique sequences.
+Sample 1 - 70402 reads in 18783 unique sequences.
+65119 paired-reads (in 231 unique pairings) successfully merged out of 68977 (in 612 pairings) input.
+[1]   1 231
+Identified 91 bimeras out of 231 input sequences.
+**** Run  18 
+18155250 total bases in 72621 reads from 1 samples will be used for learning the error rates.
+17429040 total bases in 72621 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 72621 reads in 10652 unique sequences.
+Sample 1 - 72621 reads in 18436 unique sequences.
+66857 paired-reads (in 238 unique pairings) successfully merged out of 71119 (in 629 pairings) input.
+[1]   1 238
+Identified 93 bimeras out of 238 input sequences.
+**** Run  19 
+18950750 total bases in 75803 reads from 1 samples will be used for learning the error rates.
+17813705 total bases in 75803 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 75803 reads in 11524 unique sequences.
+Sample 1 - 75803 reads in 19579 unique sequences.
+70297 paired-reads (in 258 unique pairings) successfully merged out of 74308 (in 653 pairings) input.
+[1]   1 258
+Identified 111 bimeras out of 258 input sequences.
+**** Run  20 
+19408500 total bases in 77634 reads from 1 samples will be used for learning the error rates.
+17855820 total bases in 77634 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 77634 reads in 12114 unique sequences.
+Sample 1 - 77634 reads in 19894 unique sequences.
+71856 paired-reads (in 261 unique pairings) successfully merged out of 76152 (in 688 pairings) input.
+[1]   1 261
+Identified 112 bimeras out of 261 input sequences.
+**** Run  21 
+19597000 total bases in 78388 reads from 1 samples will be used for learning the error rates.
+17637300 total bases in 78388 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 78388 reads in 12345 unique sequences.
+Sample 1 - 78388 reads in 19778 unique sequences.
+72873 paired-reads (in 268 unique pairings) successfully merged out of 76879 (in 679 pairings) input.
+[1]   1 268
+Identified 116 bimeras out of 268 input sequences.
+End of pipeline

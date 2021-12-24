@@ -1,0 +1,151 @@
+**** Run  1 
+8483554 total bases in 28629 reads from 1 samples will be used for learning the error rates.
+8492365 total bases in 28629 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 28629 reads in 15663 unique sequences.
+Sample 1 - 28629 reads in 20726 unique sequences.
+[1]    1 1136
+**** Run  2 
+8495453 total bases in 28669 reads from 1 samples will be used for learning the error rates.
+8502060 total bases in 28669 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 28669 reads in 15699 unique sequences.
+Sample 1 - 28669 reads in 20766 unique sequences.
+[1]    1 1136
+**** Run  3 
+8495453 total bases in 28669 reads from 1 samples will be used for learning the error rates.
+8502060 total bases in 28669 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 28669 reads in 15699 unique sequences.
+Sample 1 - 28669 reads in 20766 unique sequences.
+[1]    1 1136
+**** Run  4 
+7644886 total bases in 28655 reads from 1 samples will be used for learning the error rates.
+7141801 total bases in 28655 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 28655 reads in 18213 unique sequences.
+Sample 1 - 28655 reads in 20738 unique sequences.
+[1]   1 774
+**** Run  5 
+5813781 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+4839068 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 25509 reads in 16708 unique sequences.
+Sample 1 - 25509 reads in 18001 unique sequences.
+[1]   1 429
+**** Run  6 
+2473683 total bases in 8484 reads from 1 samples will be used for learning the error rates.
+2479805 total bases in 8484 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 8484 reads in 2828 unique sequences.
+Sample 1 - 8484 reads in 3552 unique sequences.
+[1]   1 770
+**** Run  7 
+2475139 total bases in 8489 reads from 1 samples will be used for learning the error rates.
+2481048 total bases in 8489 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 8489 reads in 2832 unique sequences.
+Sample 1 - 8489 reads in 3557 unique sequences.
+[1]   1 770
+**** Run  8 
+2475139 total bases in 8489 reads from 1 samples will be used for learning the error rates.
+2481048 total bases in 8489 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 8489 reads in 2832 unique sequences.
+Sample 1 - 8489 reads in 3557 unique sequences.
+[1]   1 770
+**** Run  9 
+5871090 total bases in 21230 reads from 1 samples will be used for learning the error rates.
+5434457 total bases in 21230 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 21230 reads in 11435 unique sequences.
+Sample 1 - 21230 reads in 13690 unique sequences.
+[1]   1 713
+**** Run  10 
+5813781 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+4839068 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 25509 reads in 16708 unique sequences.
+Sample 1 - 25509 reads in 18001 unique sequences.
+[1]   1 429
+**** Run  11 
+4226438 total bases in 14367 reads from 1 samples will be used for learning the error rates.
+4234537 total bases in 14367 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 14367 reads in 5022 unique sequences.
+Sample 1 - 14367 reads in 7265 unique sequences.
+[1]   1 906
+**** Run  12 
+4229385 total bases in 14377 reads from 1 samples will be used for learning the error rates.
+4237021 total bases in 14377 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 14377 reads in 5028 unique sequences.
+Sample 1 - 14377 reads in 7275 unique sequences.
+[1]   1 906
+**** Run  13 
+4229385 total bases in 14377 reads from 1 samples will be used for learning the error rates.
+4237021 total bases in 14377 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 14377 reads in 5028 unique sequences.
+Sample 1 - 14377 reads in 7275 unique sequences.
+[1]   1 906
+**** Run  14 
+6586095 total bases in 24115 reads from 1 samples will be used for learning the error rates.
+6113871 total bases in 24115 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 24115 reads in 13860 unique sequences.
+Sample 1 - 24115 reads in 16294 unique sequences.
+[1]   1 754
+**** Run  15 
+5813781 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+4839068 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 25509 reads in 16708 unique sequences.
+Sample 1 - 25509 reads in 18001 unique sequences.
+[1]   1 429
+**** Run  16 
+6078680 total bases in 20572 reads from 1 samples will be used for learning the error rates.
+6088083 total bases in 20572 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 20572 reads in 8512 unique sequences.
+Sample 1 - 20572 reads in 12757 unique sequences.
+[1]   1 999
+**** Run  17 
+6084886 total bases in 20593 reads from 1 samples will be used for learning the error rates.
+6093081 total bases in 20593 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 20593 reads in 8529 unique sequences.
+Sample 1 - 20593 reads in 12778 unique sequences.
+[1]   1 999
+**** Run  18 
+6084886 total bases in 20593 reads from 1 samples will be used for learning the error rates.
+6093081 total bases in 20593 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 20593 reads in 8529 unique sequences.
+Sample 1 - 20593 reads in 12778 unique sequences.
+[1]   1 999
+**** Run  19 
+7128795 total bases in 26413 reads from 1 samples will be used for learning the error rates.
+6639255 total bases in 26413 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 26413 reads in 16033 unique sequences.
+Sample 1 - 26413 reads in 18523 unique sequences.
+[1]   1 761
+**** Run  20 
+5813781 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+4839068 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 25509 reads in 16708 unique sequences.
+Sample 1 - 25509 reads in 18001 unique sequences.
+[1]   1 429
+**** Run  21 
+6942808 total bases in 23468 reads from 1 samples will be used for learning the error rates.
+6953226 total bases in 23468 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 23468 reads in 10777 unique sequences.
+Sample 1 - 23468 reads in 15592 unique sequences.
+[1]    1 1037
+**** Run  22 
+6951111 total bases in 23496 reads from 1 samples will be used for learning the error rates.
+6959957 total bases in 23496 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 23496 reads in 10801 unique sequences.
+Sample 1 - 23496 reads in 15620 unique sequences.
+[1]    1 1037
+**** Run  23 
+6951111 total bases in 23496 reads from 1 samples will be used for learning the error rates.
+6959957 total bases in 23496 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 23496 reads in 10801 unique sequences.
+Sample 1 - 23496 reads in 15620 unique sequences.
+[1]    1 1037
+**** Run  24 
+7394370 total bases in 27580 reads from 1 samples will be used for learning the error rates.
+6901801 total bases in 27580 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 27580 reads in 17168 unique sequences.
+Sample 1 - 27580 reads in 19675 unique sequences.
+[1]   1 766
+**** Run  25 
+5813781 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+4839068 total bases in 25509 reads from 1 samples will be used for learning the error rates.
+Sample 1 - 25509 reads in 16708 unique sequences.
+Sample 1 - 25509 reads in 18001 unique sequences.
+[1]   1 429
+End of pipeline

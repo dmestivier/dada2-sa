@@ -1,0 +1,119 @@
+Loading required package: Rcpp
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+60453 paired-reads (in 5779 unique pairings) successfully merged out of 84642 (in 10244 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 3520 bimeras out of 5772 input sequences.
+Duplicate sequences detected and merged.
+60493 paired-reads (in 5778 unique pairings) successfully merged out of 84710 (in 10261 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 3518 bimeras out of 5771 input sequences.
+Duplicate sequences detected and merged.
+60493 paired-reads (in 5778 unique pairings) successfully merged out of 84710 (in 10261 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 3518 bimeras out of 5771 input sequences.
+Duplicate sequences detected and merged.
+33475 paired-reads (in 3768 unique pairings) successfully merged out of 45351 (in 5357 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 1678 bimeras out of 2623 input sequences.
+Duplicate sequences detected and merged.
+19051 paired-reads (in 1558 unique pairings) successfully merged out of 40551 (in 8845 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 593 bimeras out of 995 input sequences.
+Duplicate sequences detected and merged.
+25972 paired-reads (in 3295 unique pairings) successfully merged out of 33746 (in 4758 pairings) input.
+Identified 1704 bimeras out of 3295 input sequences.
+25980 paired-reads (in 3292 unique pairings) successfully merged out of 33768 (in 4757 pairings) input.
+Identified 1702 bimeras out of 3292 input sequences.
+25980 paired-reads (in 3292 unique pairings) successfully merged out of 33768 (in 4757 pairings) input.
+Identified 1702 bimeras out of 3292 input sequences.
+25089 paired-reads (in 2681 unique pairings) successfully merged out of 33003 (in 3848 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 1292 bimeras out of 2157 input sequences.
+Duplicate sequences detected and merged.
+19051 paired-reads (in 1558 unique pairings) successfully merged out of 40551 (in 8845 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 593 bimeras out of 995 input sequences.
+Duplicate sequences detected and merged.
+39561 paired-reads (in 4352 unique pairings) successfully merged out of 53396 (in 6880 pairings) input.
+Identified 2376 bimeras out of 4352 input sequences.
+39584 paired-reads (in 4351 unique pairings) successfully merged out of 53433 (in 6886 pairings) input.
+Identified 2375 bimeras out of 4351 input sequences.
+39584 paired-reads (in 4351 unique pairings) successfully merged out of 53433 (in 6886 pairings) input.
+Identified 2375 bimeras out of 4351 input sequences.
+29464 paired-reads (in 3093 unique pairings) successfully merged out of 39612 (in 4437 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 1385 bimeras out of 2283 input sequences.
+Duplicate sequences detected and merged.
+19051 paired-reads (in 1558 unique pairings) successfully merged out of 40551 (in 8845 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 593 bimeras out of 995 input sequences.
+Duplicate sequences detected and merged.
+51891 paired-reads (in 4852 unique pairings) successfully merged out of 72938 (in 8301 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 2755 bimeras out of 4850 input sequences.
+Duplicate sequences detected and merged.
+51910 paired-reads (in 4851 unique pairings) successfully merged out of 72990 (in 8315 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 2754 bimeras out of 4849 input sequences.
+Duplicate sequences detected and merged.
+51910 paired-reads (in 4851 unique pairings) successfully merged out of 72990 (in 8315 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 2754 bimeras out of 4849 input sequences.
+Duplicate sequences detected and merged.
+32291 paired-reads (in 3407 unique pairings) successfully merged out of 43921 (in 4864 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 1422 bimeras out of 2324 input sequences.
+Duplicate sequences detected and merged.
+19051 paired-reads (in 1558 unique pairings) successfully merged out of 40551 (in 8845 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 593 bimeras out of 995 input sequences.
+Duplicate sequences detected and merged.
+57747 paired-reads (in 5172 unique pairings) successfully merged out of 81029 (in 9049 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 3031 bimeras out of 5168 input sequences.
+Duplicate sequences detected and merged.
+57754 paired-reads (in 5163 unique pairings) successfully merged out of 81111 (in 9061 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 3023 bimeras out of 5159 input sequences.
+Duplicate sequences detected and merged.
+57754 paired-reads (in 5163 unique pairings) successfully merged out of 81111 (in 9061 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 3023 bimeras out of 5159 input sequences.
+Duplicate sequences detected and merged.
+33213 paired-reads (in 3522 unique pairings) successfully merged out of 45168 (in 5057 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 1486 bimeras out of 2392 input sequences.
+Duplicate sequences detected and merged.
+19051 paired-reads (in 1558 unique pairings) successfully merged out of 40551 (in 8845 pairings) input.
+Duplicate sequences in merged output.
+Duplicate sequences detected and merged.
+Identified 593 bimeras out of 995 input sequences.
+Duplicate sequences detected and merged.

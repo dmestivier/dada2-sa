@@ -1,0 +1,6 @@
+"","input","filtered","denoisedF","denoisedR","merged","nonchim","assignes","badassignes","PRM_TRUNCQ","PRM_RMPHIX","PRM_MAXEE","Trunclen","minBoot"
+"track1","107145","67324","65758","64053","48557","47264","89","369","Truncq_2","rmphix_F","MaxEE_2-2","TruncLen_245-235","minBoot_10"
+"track2","107145","67324","65758","64053","48557","47264","83","375","Truncq_2","rmphix_F","MaxEE_2-2","TruncLen_245-235","minBoot_25"
+"track3","107145","67324","65758","64053","48557","47264","61","397","Truncq_2","rmphix_F","MaxEE_2-2","TruncLen_245-235","minBoot_50"
+"track4","107145","67324","65758","64053","48557","47264","53","405","Truncq_2","rmphix_F","MaxEE_2-2","TruncLen_245-235","minBoot_100"
+"track5","107145","67324","65758","64053","48557","47264","0","458","Truncq_2","rmphix_F","MaxEE_2-2","TruncLen_245-235","minBoot_200"
