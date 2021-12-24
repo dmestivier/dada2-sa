@@ -34,7 +34,22 @@ REF:
 The 16S rRNA amplicon sequencing data are available from the European
 Nucleotide Archive (ENA) database (http://www.ebi.ac.uk/ena) under the
 accession number PRJEB43183.
+
+
+REF:
+   "The Limits and Avoidance of Biases in Metagenomic Analyses of Human Fecal Microbiota"
+   Emma Bergsten, Denis Mestivier, Iradj Sobhani
+   Microorganisms, 2020 Dec 9;8(12):1954.
+   doi: 10.3390/microorganisms8121954.
+   PMID: 33317070
+
+The CCR1/16S were downloaded from the European Nucleotide Archive (ENA) database
+(http://www.ebi.ac.uk/ena) under the access number ERP005534.
 ```
+
+ITMO/16S data are not yet published.
+
+Data are gzipped but should be un-gzipped to reproduce the figures.
 
 ## Scripts
 
@@ -43,11 +58,14 @@ Each parameter set tested is in the `./PDS` directory:
 
 - MaxEE and truncQ
 - truncLen
+- LearnError and dada
+- assignTaxonomy
 
 Scripts for the figures are in the `./Figures` directory.
 
 - ReadQualityProfiles
-- Error-Dada
 - MaxEE-TruncQ
 - TruncLen
+- Error-Dada
+- assigTaxo
 
