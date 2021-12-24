@@ -24,7 +24,7 @@ library(RColorBrewer)
 ##############################################
 
 # filename
-pathFile   = "../../PDS/FilterTrim/Trunclen/"
+pathFile   = "../../../PDS/CCA/FilterTrim/Trunclen/"
 samplename = "19KA_S72"
 #samplename = "14SA_S77"
 #samplename = "24MA_S64"

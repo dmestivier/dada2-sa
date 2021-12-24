@@ -51,28 +51,44 @@ for( samplename in lof[, 1] )
 
 	# Filter non-genus taxa
 	L       = which( is.na( taxa[,"Genus"] ) )
-	percent = percent[ -L, ]
-	taxa    = taxa  [ -L, ]
+	if( length(L) > 0)
+	{
+		percent = percent[ -L, ]
+		taxa    = taxa  [ -L, ]
+	}
+
 
 	rownames(percent) = taxa[ ,"Genus" ]
-
 	# RColorBrewer
 
 	mycol = colorRampPalette( brewer.pal(n = 7, name = "YlGnBu" ))
+    
+	# genus abundance below THR is map as NA
+	THR = 0.001
+	p2 = percent
+	p2[ which( p2 < THR ) ] = NA
+	percent = p2
 
 	# heatmap
 
 	# cols annotation
-	acols = pds[, c("PRM_TRUNCQ", "PRM_MAXEE") ]
+	acols = pds[, c( "PRM_MAXEE", "PRM_TRUNCQ") ]
+	#acols = pds[, c("PRM_TRUNCQ", "PRM_MAXEE") ]
 	rownames(acols) = pds[,1]
 
 	otfnALL  = paste( samplename, "_fig_maxEE-truncQ-heatmap-ALL.pdf", sep="" )
 	otfnHIGH = paste( samplename, "_fig_maxEE-truncQ-heatmap-HIGH.pdf", sep="" )
+	otfnLOW  = paste( samplename, "_fig_maxEE-truncQ-heatmap-LOW.pdf", sep="" )
 	XX1=1
 	XX2=min(20,nrow(percent))
 
-	pheatmap( percent, cluster_cols=F, cluster_rows=F, gaps_col=c(5,10,15,20,25), angle_col=c("315"), annotation_col=acols, show_colnames=T, color=mycol(100), filename=otfnALL, width=8.25, height=11.75)
+	pheatmap( percent, cluster_cols=F, cluster_rows=F, gaps_col=c(5,10,15,20,25), angle_col=c("315"), annotation_col=acols, show_colnames=T, color=mycol(100), filename=otfnALL, width=8.25, height=11.75, na_col="red" )
 	
-	pheatmap( percent[XX1:XX2,], cluster_cols=F, cluster_rows=F, gaps_col=c(5,10,15,20,25), angle_col=c("315"), annotation_col=acols, show_colnames=T, color=mycol(100), filename=otfnHIGH, width=8.25, height=11.75)
+	pheatmap( percent[XX1:XX2,], cluster_cols=F, cluster_rows=F, gaps_col=c(5,10,15,20,25), angle_col=c("315"), annotation_col=acols, show_colnames=T, color=mycol(100), filename=otfnHIGH, width=8.25, height=11.75, na_col="red" )
+
+	if( nrow(percent)>10 )
+	{	
+		pheatmap( percent[(nrow(percent)-10):nrow(percent),], cluster_cols=F, cluster_rows=F, gaps_col=c(5,10,15,20,25), angle_col=c("315"), annotation_col=acols, show_colnames=T, color=mycol(100), filename=otfnLOW, width=8.25, height=11.75, na_col="red" )
+	}
 }
 

@@ -25,7 +25,7 @@ library(RColorBrewer)
 
 # filename
 
-pathFile   = "../../PDS/Error-dada/"
+pathFile   = "../../../PDS/CCA/Error-dada/"
 samplename = "19KA_S72_error-dada"
 samplename = "19KA_S72_error-dada"
 #samplename = "14SA_S77"
@@ -78,13 +78,15 @@ p2[ which( p2 < THR ) ] = NA
 acols = as.data.frame( pds[, c("nbases", "MaxConsist", "OmegaA") ] )
 rownames(acols) = pds[,1]
 
+XX1=10
+
 pheatmap( percent, cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-full.pdf", width=8.25, height=11.75, na_col="black" )
 
-pheatmap( percent[1:15,], cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-high.pdf", width=8.25, height=11.75, na_col="black" )
+pheatmap( percent[1:XX1,], cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-high.pdf", width=8.25, height=11.75, na_col="black" )
 
-pheatmap( percent[15:35,], cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-medium.pdf", width=8.25, height=11.75, na_col="black" )
+#pheatmap( percent[10:30,], cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-medium.pdf", width=8.25, height=11.75, na_col="black" )
 
-pheatmap( percent[35:nrow(percent),], cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-low.pdf", width=8.25, height=11.75, na_col="black" )
+pheatmap( percent[(nrow(percent)-XX1):nrow(percent),], cluster_cols=F, cluster_rows=F, gaps_col=c(4,8,12,16,20,24,28,32,36,40,44), angle_col=c("315"), annotation_col=acols, show_colnames=F, color=mycol(100), filename="fig_Error-dada-heatmap-low.pdf", width=8.25, height=11.75, na_col="black" )
 
 
 XX=10

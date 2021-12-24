@@ -52,7 +52,7 @@ prep = function( mydf )
 ##############################################
 
 # list of filenames
-listOfPDS = list.files( path="../../PDS/FilterTrim/MaxEE-TruncQ", pattern="_PDS.csv", full.names=T )
+listOfPDS = list.files( path="../../../PDS/CCA/FilterTrim/MaxEE-TruncQ", pattern="_PDS.csv", full.names=T )
 
 # import data
 m = c()
@@ -67,5 +67,5 @@ for( fn in listOfPDS )
 # Visualisation
 ggplot( m, aes( x=PRM_TRUNCQ, y=pNonchim, fill=PRM_MAXEE)) + geom_boxplot() + ylim(0,100)
 
-ggsave( "fig_maxEE-truncQ-left.pdf", scale = 1, width = 21, height = 29.7, units = c("cm"  ),   dpi = 300, limitsize = TRUE )
+ggsave( "fig_MaxEE-TruncQ-left.pdf", scale = 1, width = 21, height = 29.7, units = c("cm"  ),   dpi = 300, limitsize = TRUE )
 
